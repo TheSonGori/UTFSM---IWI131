@@ -1,13 +1,13 @@
-## UTFSM - IWI131
+# UTFSM - IWI131
 
-# Descripcion Ramo
+## Descripcion Ramo
 En esta asignatura, el estudiante aplica saberes conceptuales y procedimentales al pensamiento 
 computacional para resolver problemas de ingeniería mediante el desarrollo de programas con 
 distintos flujos de control. Manipula datos estructurados para identificar relaciones y obtener nueva 
 información, a través de algoritmos sobre colecciones de distinto tipo en memoria principal, aplicando 
 patrones, haciendo cruces, agrupaciones y conteos.
 
-# Resultados de aprendizaje
+## Resultados de aprendizaje
 • Describe el proceso de solución para una situación problemática, mediante un algoritmo que transforma un estado inicial a un estado final.
 • Implementa programas que resuelven problemas de Ingeniería, desarrollando algoritmos secuenciales, condicionales e iterativos sobre distintos tipos de datos.
 • Evalúa la correctitud de un programa, dando seguimiento paso a paso a su código.
@@ -16,7 +16,7 @@ patrones, haciendo cruces, agrupaciones y conteos.
 • Resuelve problemáticas específicas, aplicando patrones algorítmicos sobre distintos tipos de colecciones.
 • Genera nueva información, manipulando algorítmicamente colecciones de datos persistentes
 
-# Contenidos temáticos
+## Contenidos temáticos
 1. Problemas, estados y algoritmos.
 2. Tipos de datos, operadores y expresiones, variables y asignación.
 3. Programas con flujo secuencial, entrada y salida, funciones predefinidas.
