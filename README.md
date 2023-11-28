@@ -2,7 +2,7 @@
 
 ## Datos
 - Nombre Asignatura: Programacion.
-- Asignatura realiazada en el primer semestre de 2021.
+- Asignatura realizada en el primer semestre de 2021.
 - Asignatura aprobada.
 
 ## Descripcion Asignatura
