@@ -1,0 +1,3 @@
+Fecha: 2021-06-20; Hora: 17:05; Lugar: New Zealand; Magnitud: 6.5.
+Fecha: 2021-06-03; Hora: 10:09; Lugar: Indonesia; Magnitud: 6.2.
+Fecha: 2021-05-31; Hora: 06:59; Lugar: Alaska; Magnitud: 6.1.

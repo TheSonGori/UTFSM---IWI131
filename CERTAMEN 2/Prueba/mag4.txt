@@ -1,0 +1,3 @@
+Fecha: 2021-06-03; Hora: 14:30; Lugar: Tonga; Magnitud: 4.95.
+Fecha: 2021-06-03; Hora: 14:32; Lugar: Tonga; Magnitud: 4.92.
+Fecha: 2021-06-23; Hora: 05:40; Lugar: Taiwan; Magnitud: 4.91.

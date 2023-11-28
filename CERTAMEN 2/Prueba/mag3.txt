@@ -1,0 +1,3 @@
+Fecha: 2021-06-08; Hora: 05:57; Lugar: U.S. Virgin Islands; Magnitud: 3.99.
+Fecha: 2021-06-22; Hora: 06:33; Lugar: Dominican Republic; Magnitud: 3.98.
+Fecha: 2021-06-13; Hora: 06:54; Lugar: California; Magnitud: 3.97.

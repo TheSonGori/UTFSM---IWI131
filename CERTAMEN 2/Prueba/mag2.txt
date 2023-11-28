@@ -1,0 +1,3 @@
+Fecha: 2021-06-05; Hora: 20:04; Lugar: Puerto Rico; Magnitud: 2.99.
+Fecha: 2021-06-14; Hora: 18:29; Lugar: Hawaii; Magnitud: 2.98.
+Fecha: 2021-06-05; Hora: 17:51; Lugar: California; Magnitud: 2.97.

@@ -1,0 +1,3 @@
+Fecha: 2021-06-04; Hora: 08:17; Lugar: Oregon; Magnitud: 5.95.
+Fecha: 2021-06-21; Hora: 11:14; Lugar: New Zealand; Magnitud: 5.9.
+Fecha: 2021-06-16; Hora: 04:43; Lugar: Indonesia; Magnitud: 5.85.
