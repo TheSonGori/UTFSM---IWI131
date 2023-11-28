@@ -1,8 +1,8 @@
 # UTFSM - IWI131
 
 ## Datos
-• Asignatura realiazada en el primer semestre de 2021.
-• Asignatura aprobada.
+- Asignatura realiazada en el primer semestre de 2021.
+- Asignatura aprobada.
 
 ## Descripcion Asignatura
 En esta asignatura, el estudiante aplica saberes conceptuales y procedimentales al pensamiento 
@@ -12,13 +12,13 @@ información, a través de algoritmos sobre colecciones de distinto tipo en memo
 patrones, haciendo cruces, agrupaciones y conteos.
 
 ## Resultados de aprendizaje
-• Describe el proceso de solución para una situación problemática, mediante un algoritmo que transforma un estado inicial a un estado final.
-• Implementa programas que resuelven problemas de Ingeniería, desarrollando algoritmos secuenciales, condicionales e iterativos sobre distintos tipos de datos.
-• Evalúa la correctitud de un programa, dando seguimiento paso a paso a su código.
-• Resuelve subproblemas particulares dentro de un problema más amplio, implementando funciones con una interfaz (parámetros y valor de retorno) bien definida.
-• Resuelve problemas, utilizando distintos tipos de colecciones tales como strings, listas, tuplas y diccionarios.
-• Resuelve problemáticas específicas, aplicando patrones algorítmicos sobre distintos tipos de colecciones.
-• Genera nueva información, manipulando algorítmicamente colecciones de datos persistentes
+- Describe el proceso de solución para una situación problemática, mediante un algoritmo que transforma un estado inicial a un estado final.
+- Implementa programas que resuelven problemas de Ingeniería, desarrollando algoritmos secuenciales, condicionales e iterativos sobre distintos tipos de datos.
+- Evalúa la correctitud de un programa, dando seguimiento paso a paso a su código.
+- Resuelve subproblemas particulares dentro de un problema más amplio, implementando funciones con una interfaz (parámetros y valor de retorno) bien definida.
+- Resuelve problemas, utilizando distintos tipos de colecciones tales como strings, listas, tuplas y diccionarios.
+- Resuelve problemáticas específicas, aplicando patrones algorítmicos sobre distintos tipos de colecciones.
+- Genera nueva información, manipulando algorítmicamente colecciones de datos persistentes
 
 ## Contenidos temáticos
 1. Problemas, estados y algoritmos.
