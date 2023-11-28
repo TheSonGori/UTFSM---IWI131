@@ -1,6 +1,10 @@
 # UTFSM - IWI131
 
-## Descripcion Ramo
+## Datos
+• Asignatura realiazada en el primer semestre de 2021.
+• Asignatura aprobada.
+
+## Descripcion Asignatura
 En esta asignatura, el estudiante aplica saberes conceptuales y procedimentales al pensamiento 
 computacional para resolver problemas de ingeniería mediante el desarrollo de programas con 
 distintos flujos de control. Manipula datos estructurados para identificar relaciones y obtener nueva 
